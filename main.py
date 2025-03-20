@@ -8,4 +8,7 @@ choice = int(input("Enter your choice (1-4): "))
 if choice == 1:
     result = num1 + num2
     print(f"Result: {num1} + {num2} = {result}")
+elif choice == 2:
+    result = num1 + num2
+    print(f"Result: {num1} - {num2} = {result}")
 
