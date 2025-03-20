@@ -12,3 +12,8 @@ elif choice == 2:
     result = num1 + num2
     print(f"Result: {num1} - {num2} = {result}")
 
+elif choice==4:
+    result = num1 + num2
+    print(f"Result: {num1} / {num2} = {result}")
+
+
